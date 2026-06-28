@@ -4,7 +4,7 @@ A university database project demonstrating the design and implementation of an 
 
 ## Files
 
-Airline Database ER Diagram.mwb
-Airline Database Project Description.pdf
-Airline Database Project Queries.sql
-Airline Database.sql
+`Airline Database ER Diagram.mwb`
+`Airline Database Project Description.pdf`
+`Airline Database Project Queries.sql`
+`Airline Database.sql`
